@@ -8,7 +8,7 @@ import Testimonial from "../Testimonials";
 
 export default function Home() {
   return (
-    <div id="home">
+    <div >
       <HeroSection />
       <MySkills />
       <MyPortfolio />
