@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bharat-Goswami.github.io/static/css/main.d7ea34eb.css",
+    "main.js": "/Bharat-Goswami.github.io/static/js/main.5a39d355.js",
+    "static/media/Resume.pdf": "/Bharat-Goswami.github.io/static/media/Resume.c93417db4f34b357fa14.pdf",
+    "static/media/StayWriter-Handmade.otf": "/Bharat-Goswami.github.io/static/media/StayWriter-Handmade.38330efe7d5a2e54a3d9.otf",
+    "index.html": "/Bharat-Goswami.github.io/index.html",
+    "main.d7ea34eb.css.map": "/Bharat-Goswami.github.io/static/css/main.d7ea34eb.css.map",
+    "main.5a39d355.js.map": "/Bharat-Goswami.github.io/static/js/main.5a39d355.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7ea34eb.css",
+    "static/js/main.5a39d355.js"
+  ]
+}
